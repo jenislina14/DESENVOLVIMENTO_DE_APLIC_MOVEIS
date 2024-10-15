@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+.produto {
+    margin-bottom: 20px;
+}
+
+.produto-nome {
+    font-weight: bold;
+}
+
+.produto-preco {
+    color: #999;
+}
+
+.carrinho-item {
+    margin-bottom: 10px;
+}
+
+.carrinho-item-nome {
+    font-weight: bold;
+}
+
+.carrinho-item-preco {
+    color: #999;
+}
+
+.carrinho-total {
+    font-size: 24px;
+    font-weight: bold;
+}
