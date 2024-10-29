@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #3334f;
 }
 
 .produto {
@@ -34,3 +34,8 @@ h1 {
     font-size: 24px;
     font-weight: bold;
 }
+
+body {
+  font-family: system-ui;
+  background: #c8a2c8;
+  color: black;
