@@ -63,6 +63,7 @@ let produtosDisponiveis = [
 ];
 
 // Crie os botões para adicionar produtos ao carrinho
+
 let produtosElement = document.getElementById('produtos');
 for (let i = 0; i < produtosDisponiveis.length; i++) {
     let produto = produtosDisponiveis[i];
