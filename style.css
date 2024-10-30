@@ -1,41 +1,16 @@
 body {
-    font-family: Arial, sans-serif;
-}
-
-h1 {
-    color: #3334f;
-}
-
-.produto {
-    margin-bottom: 20px;
-}
-
-.produto-nome {
-    font-weight: bold;
-}
-
-.produto-preco {
-    color: #999;
-}
-
-.carrinho-item {
-    margin-bottom: 10px;
-}
-
-.carrinho-item-nome {
-    font-weight: bold;
-}
-
-.carrinho-item-preco {
-    color: #999;
-}
-
-.carrinho-total {
-    font-size: 24px;
-    font-weight: bold;
-}
-
-body {
-  font-family: system-ui;
-  background: #c8a2c8;
-  color: black;
+    font-family: system-ui;
+    background: #e0c4df;
+    color: black;
+    
+      h1 {
+      color: purple;         
+      font-family: Engravers MT;
+      text-align: center;
+  }
+    
+     p {
+        color: black;
+       font-family: ariel;
+       text-align: center;
+      }
